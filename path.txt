@@ -1,0 +1,3 @@
+/home/sol/pyprojects/twitter/
+
+/home/sol/twitterData/
